@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jalasoft.todoly.keywords.KeywordDriven" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-12T19:31:53" hostname="DESKTOP-UEC5B0V" time="5.325">
+  <properties/>
+  <testcase name="getAllItemsKDFTest" classname="com.jalasoft.todoly.keywords.KeywordDriven" time="5.325"/>
+  <system-out><![CDATA[[
+    {
+        "Id": 11037588,
+        "Content": "Item 1",
+        "ItemType": 1,
+        "Checked": false,
+        "ProjectId": null,
+        "ParentId": null,
+        "Path": "",
+        "Collapsed": false,
+        "DateString": null,
+        "DateStringPriority": 0,
+        "DueDate": "",
+        "Recurrence": null,
+        "ItemOrder": null,
+        "Priority": 4,
+        "LastSyncedDateTime": "/Date(1657654300117)/",
+        "Children": [
+            
+        ],
+        "DueDateTime": null,
+        "CreatedDate": "/Date(1656442687913)/",
+        "LastCheckedDate": null,
+        "LastUpdatedDate": "/Date(1656442687913)/",
+        "Deleted": false,
+        "Notes": "",
+        "InHistory": false,
+        "SyncClientCreationId": null,
+        "DueTimeSpecified": true,
+        "OwnerId": 703676
+    }
+]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

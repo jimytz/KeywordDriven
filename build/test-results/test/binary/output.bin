@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 11037588,
+        "Content": "Item 1",
+        "ItemType": 1,
+        "Checked": false,
+        "ProjectId": null,
+        "ParentId": null,
+        "Path": "",
+        "Collapsed": false,
+        "DateString": null,
+!        "DateStringPriority": 0,
+        "DueDate": "",
+        "Recurrence": null,
+        "ItemOrder": null,
+        "Priority": 4,
+7        "LastSyncedDateTime": "/Date(1657654300117)/",
+        "Children": [
+            
+        ],
+        "DueDateTime": null,
+0        "CreatedDate": "/Date(1656442687913)/",
+!        "LastCheckedDate": null,
+4        "LastUpdatedDate": "/Date(1656442687913)/",
+        "Deleted": false,
+        "Notes": "",
+        "InHistory": false,
+&        "SyncClientCreationId": null,
+"        "DueTimeSpecified": true,
+        "OwnerId": 703676
+    }
+]

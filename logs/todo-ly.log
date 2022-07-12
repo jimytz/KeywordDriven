@@ -1,0 +1,76 @@
+2022-07-12 15:31:52.951 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties
+2022-07-12 15:31:52.955 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Reading properties
+2022-07-12 15:31:52.958 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-12 15:31:52.958 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Initializing API Manager
+2022-07-12 15:31:53.677 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Listing all items Test using keyword driven framework
+2022-07-12 15:31:53.678 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Listing all items Test using keyword driven framework
+2022-07-12 15:31:57.680 ERROR [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:34)] - Non existing actions authenticate
+2022-07-12 15:31:57.680 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Non existing actions authenticate
+2022-07-12 15:31:57.680 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Non existing actions authenticate
+2022-07-12 15:31:58.850 ERROR [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:34)] - Non existing actions getAllItems
+2022-07-12 15:31:58.852 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Non existing actions getAllItems
+2022-07-12 15:31:58.853 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Non existing actions getAllItems
+2022-07-12 15:31:58.943 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - [
+    {
+        "Id": 11037588,
+        "Content": "Item 1",
+        "ItemType": 1,
+        "Checked": false,
+        "ProjectId": null,
+        "ParentId": null,
+        "Path": "",
+        "Collapsed": false,
+        "DateString": null,
+        "DateStringPriority": 0,
+        "DueDate": "",
+        "Recurrence": null,
+        "ItemOrder": null,
+        "Priority": 4,
+        "LastSyncedDateTime": "/Date(1657654300117)/",
+        "Children": [
+            
+        ],
+        "DueDateTime": null,
+        "CreatedDate": "/Date(1656442687913)/",
+        "LastCheckedDate": null,
+        "LastUpdatedDate": "/Date(1656442687913)/",
+        "Deleted": false,
+        "Notes": "",
+        "InHistory": false,
+        "SyncClientCreationId": null,
+        "DueTimeSpecified": true,
+        "OwnerId": 703676
+    }
+]
+2022-07-12 15:31:58.944 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - [
+    {
+        "Id": 11037588,
+        "Content": "Item 1",
+        "ItemType": 1,
+        "Checked": false,
+        "ProjectId": null,
+        "ParentId": null,
+        "Path": "",
+        "Collapsed": false,
+        "DateString": null,
+        "DateStringPriority": 0,
+        "DueDate": "",
+        "Recurrence": null,
+        "ItemOrder": null,
+        "Priority": 4,
+        "LastSyncedDateTime": "/Date(1657654300117)/",
+        "Children": [
+            
+        ],
+        "DueDateTime": null,
+        "CreatedDate": "/Date(1656442687913)/",
+        "LastCheckedDate": null,
+        "LastUpdatedDate": "/Date(1656442687913)/",
+        "Deleted": false,
+        "Notes": "",
+        "InHistory": false,
+        "SyncClientCreationId": null,
+        "DueTimeSpecified": true,
+        "OwnerId": 703676
+    }
+]
